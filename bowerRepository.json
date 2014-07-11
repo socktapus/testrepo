@@ -1,0 +1,12 @@
+{
+    "bowercomponenttest": {
+        "name": "bowercomponenttest",
+        "repo": "https://github.com/socktapus/bowercomponenttest.git",
+        "hits": 1
+    },
+    "bowercomponent2": {
+        "name": "bowercomponent2",
+        "repo": "https://github.com/socktapus/bowercomponent2.git",
+        "hits": 1
+    }
+}
